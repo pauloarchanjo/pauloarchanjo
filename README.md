@@ -1,4 +1,4 @@
-### Hello Person! eu sou o Paulo, mas pode me conhecer como Hogtear ✌️
+### Hello There! eu sou o Paulo, mas pode me conhecer como Hogtear ✌️
 
 <div>
   <a href="https://github.com/hogtear">
