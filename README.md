@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/hogtear">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=hogtear&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=false"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hogtear&layout=compact&langs_count=8&theme=midnight-purple"/>
+  
 </div>
   
 <div style="display: inline_block"><br>
