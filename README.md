@@ -1,5 +1,22 @@
 ### Hello There! eu sou o Paulo, mas pode me conhecer como Hogtear ✌️
 
+Sou programador desde os 15 anos, tendo conhecimento em diversas linguagens, com o foco de aprender e aprimorar sempre.
+
+Sou um dos Desenvolvedores do "Projeto ENVIRO", um site que realiza cálculo de danos florestais <br> utilizando imagens de satélite, através da Visão Computacional. <br><br>Este projeto, foi premiado e reconhecido em feiras como Bragantec, FeNaDante e 3M.
+
+
+Objetivos:
+  - Ser um Engenheiro de Software 🎓
+  - Aprimorar os meus conhecimentos o máximo possível 💪
+  - Desenvolver projetos que cause transformações sociais 📢
+
+“Um ser humano deve transformar 
+informação em inteligência ou 
+conhecimento. Tendemos a esquecer 
+que nenhum computador jamais fará 
+uma nova pergunta.”. Grace Hopper
+
+
 <div>
   <a href="https://github.com/hogtear">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hogtear&show_icons=true&theme=great-gatsby&include_all_commits=false&count_private=false"/>
