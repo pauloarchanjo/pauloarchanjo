@@ -13,6 +13,7 @@ conhecimento.<br> Tendemos a esquecer
 que nenhum computador jamais fará 
 uma nova pergunta.” <br> Grace Hopper <br>
 
+##
 ### Linguagens 
 Front-end:
   <div style="display: inline_block">
@@ -34,6 +35,7 @@ Back-end:
     <img align="center" alt="Hog-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
 
+##
   
   <br>
 
