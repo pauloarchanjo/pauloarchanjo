@@ -2,9 +2,6 @@
 
 Sou programador desde os 15 anos, tendo conhecimento em diversas linguagens, com o foco de aprender e aprimorar sempre.
 
-Sou um dos Desenvolvedores do "Projeto ENVIRO", um site que realiza cálculo de danos florestais <br> utilizando imagens de satélite, através da Visão Computacional. <br><br>Este projeto, foi premiado e reconhecido em feiras como Bragantec, FeNaDante e 3M.
-
-
 Objetivos:
   - Ser um Engenheiro de Software 🎓
   - Aprimorar os meus conhecimentos o máximo possível 💪
