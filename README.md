@@ -12,9 +12,9 @@ Objetivos:
 
 “Um ser humano deve transformar 
 informação em inteligência ou 
-conhecimento. Tendemos a esquecer 
+conhecimento.<br> Tendemos a esquecer 
 que nenhum computador jamais fará 
-uma nova pergunta.”. Grace Hopper
+uma nova pergunta.” <br> Grace Hopper <br>
 
 
 <div>
