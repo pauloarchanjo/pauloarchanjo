@@ -45,16 +45,14 @@ Back-end:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hogtear&layout=compact&langs_count=8&theme=great-gatsby"/>
 </div>
 
-
-  
-  ##
-
 <div>  
   
   <a href="https://instagram.com/pauloarchanjo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pauloarchanjo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC7a7RctsIrpR4hXzRVEI7IQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
+  ##
+  
   ![Snake animation](https://github.com/Hogtear/Hogtear/blob/output/github-contribution-grid-snake.svg)
 </div>
   
