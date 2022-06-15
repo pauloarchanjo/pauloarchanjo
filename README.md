@@ -1,57 +1,68 @@
-### Hello There! eu sou o Paulo, mas pode me conhecer como Archanjo, tenho 17 anos e<br>sou natural de Campinas-SP ✌️
+<h3 align="left">Hello There! eu sou o Paulo, mas pode me conhecer como Archanjo, tenho 17 anos e sou natural de Campinas-SP ✌️</h3>
 
-Sou programador desde os 15 anos, tendo conhecimento em diversas linguagens, com o foco de aprender e aprimorar sempre.
+###
+<p align="left">Sou programador desde os 15 anos, tendo conhecimento em diversas linguagens, com o foco de aprender e aprimorar sempre.🎯</p>
 
-Objetivos:
-  - Ser um Engenheiro de Software 🎓
-  - Aprimorar os meus conhecimentos o máximo possível 💪
-  - Desenvolver projetos que cause transformações sociais 📢
+###
+<h4 align="left">Objetivos:<br>  - Ser um Engenheiro de Software 🎓<br>  - Aprimorar os meus conhecimentos o máximo possível 💪<br>  - Desenvolver projetos que cause transformações sociais 📢</h4>
 
-“Um ser humano deve transformar 
-informação em inteligência ou 
-conhecimento.<br> Tendemos a esquecer 
-que nenhum computador jamais fará 
-uma nova pergunta.” <br> Grace Hopper <br>
+###
+<p align="left">“Um ser humano deve transformar <br>informação em inteligência ou <br>conhecimento. Tendemos a esquecer <br>que nenhum computador jamais fará <br>uma nova pergunta.” Grace Hopper</p>
 
 ##
-### Linguagens 
-Front-end:
-  <div style="display: inline_block">
-    <img align="center" alt="Hog-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Hog-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Hog-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="Hog-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Hog-BS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Hog-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  </div><br>
 
-Back-end:
-  <div style="display: inline_block">
-    <img align="center" alt="Hog-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Hog-OpenCV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
-    <img align="center" alt="Hog-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Hog-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img align="center" alt="Hog-CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img align="center" alt="Hog-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  </div>
+###
+<h3 align="center">LINGUAGENS</h3>
 
-##
-  
-  <br>
+###
+<p align="center">Front-end:</p>
 
-<div>
-  <a href="https://github.com/hogtear">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hogtear&show_icons=true&theme=great-gatsby&include_all_commits=false&count_private=false"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hogtear&layout=compact&langs_count=8&theme=great-gatsby"/>
+###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
 </div>
 
-<div>  
-  
-  <a href="https://instagram.com/pauloarchanjo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pauloarchanjo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UC7a7RctsIrpR4hXzRVEI7IQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+###
+<p align="center">Back-end:</p>
 
-  ##
+###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" width="52" alt="csharp logo"  />
+</div>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=true&username=Hogtear" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=vision-friendly-dark&hide_border=true&username=Hogtear" height="150" alt="languages graph"  />
+</div>
+
+##
+
+###
+<h5 align="center">REDES SOCIAIS</h5>
+
+###
+<div align="center">
+  <a href="https://www.instagram.com/pauloarchanjo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UC7a7RctsIrpR4hXzRVEI7IQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/pauloarchanjo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
   
   ![Snake animation](https://github.com/Hogtear/Hogtear/blob/output/github-contribution-grid-snake.svg)
 </div>
