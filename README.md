@@ -6,6 +6,8 @@
 ###
 <h4 align="left">Objetivos:<br>  - Ser um Engenheiro de Software 🎓<br>  - Aprimorar os meus conhecimentos o máximo possível 💪<br>  - Desenvolver projetos que cause transformações sociais 📢</h4>
 
+##
+
 ###
 <p align="center">“Um ser humano deve transformar <br>informação em inteligência ou <br>conhecimento. Tendemos a esquecer <br>que nenhum computador jamais fará <br>uma nova pergunta.” Grace Hopper</p>
 
