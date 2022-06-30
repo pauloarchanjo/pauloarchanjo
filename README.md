@@ -4,7 +4,7 @@
 <p align="left">Sou programador desde os 15 anos, tendo conhecimento em diversas linguagens, com o foco de aprender e aprimorar sempre.🎯</p>
 
 ###
-<h4 align="left">Objetivos:<br>  - Ser um Engenheiro de Software 🎓<br>  - Aprimorar os meus conhecimentos o máximo possível 💪<br>  - Desenvolver projetos que cause transformações sociais 📢</h4>
+<h4 align="left">Objetivos:<br><br>  - Ser um Engenheiro de Software 🎓<br>  - Aprimorar os meus conhecimentos o máximo possível 💪<br>  - Desenvolver projetos que cause transformações sociais 📢</h4>
 
 ##
 
