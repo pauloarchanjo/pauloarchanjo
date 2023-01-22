@@ -42,6 +42,17 @@
 </div>
 
 ###
+<p align="center">Design:</p>
+
+###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="ps logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="52" alt="ai logo" />
+</div>
+
+
+
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=true&username=pauloarchanjo" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=vision-friendly-dark&hide_border=true&username=pauloarchanjo" height="150" alt="languages graph"  />
