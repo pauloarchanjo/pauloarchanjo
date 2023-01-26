@@ -14,7 +14,7 @@
 ##
 
 ###
-<h3 align="center">LINGUAGENS</h3>
+<h3 align="center">LINGUAGENS E FRAMEWORKS</h3>
 
 ###
 <p align="center">Front-end:</p>
