@@ -67,13 +67,13 @@
 ###
 <div align="center">
   <a href="https://www.instagram.com/pauloarchanjo/" target="_blank">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" width="62" height="50" alt="instagram logo"  />
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" width="56" height="44" alt="instagram logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UC7a7RctsIrpR4hXzRVEI7IQ" target="_blank">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg" width="62" height="50" alt="youtube logo"  />
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg" width="56" height="44" alt="youtube logo"  />
   </a>
   <a href="https://www.linkedin.com/in/pauloarchanjo/" target="_blank">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" width="62" height="50" alt="linkedin logo"  />
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" width="56" height="44" alt="linkedin logo"  />
   </a>
 </div>
 
