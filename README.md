@@ -51,6 +51,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="52" alt="ai logo" />
 </div>
 
+###
+<p align="center">Ferramentas:</p>
+
+###
+<div align="center">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Wordpress_white.svg" height="40" width="52" alt="wordpress logo" />
+</div>
+
 
 
 ###
