@@ -1,10 +1,18 @@
-<h3 align="left">Hello There! eu sou o Paulo, mas pode me conhecer como Archanjo, tenho 18 anos e sou natural de Campinas-SP ✌️</h3>
+<h3 align="center">Hello There! eu sou o Paulo, mas pode me conhecer como Archanjo✌️</h3><br>
 
 ###
-<p align="left">Sou programador desde os 15 anos, tendo conhecimento em diversas linguagens, com o foco de aprender e aprimorar sempre.🎯</p>
+<p align="justify">Sou um programador apaixonado por tecnologia e tenho como objetivo me tornar um Engenheiro de Software. Com apenas 18 anos, sou natural de Campinas-SP e venho me dedicando ao desenvolvimento de software desde os 15 anos.🎯</p>
+
+### 🚀 OBJETIVOS
+
+- Me tornar um Engenheiro de Software altamente qualificado e experiente.
+- Aprender e me tornar um poliglota em 5 anos.
+- Buscar constantemente o aprimoramento dos meus conhecimentos e habilidades técnicas.
+- Desenvolver projetos que causem um impacto positivo e promovam transformações sociais.
 
 ###
-<h4 align="left">Objetivos:<br><br>  - Ser um Engenheiro de Software 🎓<br>  - Me tornar um poliglota em 5 anos 🌎<br>  - Aprimorar os meus conhecimentos o máximo possível 💪<br>  - Desenvolver projetos que cause transformações sociais 📢</h4>
+<p align="justify">Fique à vontade para explorar meus repositórios e projetos. Se tiver alguma pergunta, oportunidade de colaboração ou apenas quiser bater um papo sobre programação, não hesite em entrar em contato!
+</p>
 
 ##
 
