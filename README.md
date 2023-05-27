@@ -1,4 +1,4 @@
-<h3 align="center">Hello There! eu sou o Paulo, mas pode me conhecer como Archanjo✌️</h3><br>
+<h3 align="center">Hello There! eu sou o Paulo, mas pode me conhecer como Archanjo✌️</h3>
 
 ###
 <p align="justify">Sou um programador apaixonado por tecnologia e tenho como objetivo me tornar um Engenheiro de Software. Com apenas 18 anos, sou natural de Campinas-SP e venho me dedicando ao desenvolvimento de software desde os 15 anos.🎯</p>
