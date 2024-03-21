@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Languages & Frameworks 🖥️</h2>
+<h2 align="left">Technologies:</h2>
 
 
 ###
