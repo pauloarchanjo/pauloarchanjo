@@ -14,7 +14,6 @@
 
 
 ###
-<p align="left">Front-end:</p>
 
 ###
 <div align="left">
@@ -25,8 +24,6 @@
 </div>
 
 ###
-<p align="left">Back-end:</p>
-
 ###
 <div align="left">
   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" height="40" width="52" alt="python logo"  />
