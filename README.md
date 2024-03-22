@@ -18,12 +18,12 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/HTML%20svg.svg" height="60" width="72" alt="html5 logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/CSS%20svg.svg" height="60" width="72" alt="css3 logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/JS%20svg.svg" height="60" width="72" alt="js logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/Node%20svg.svg" height="60" width="72" alt="nodejs logo" /><br>
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/Python%20svg.svg" height="60" width="72" alt="python logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/Django%20svg.svg" height="60" width="72" alt="django logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/C%2B%2B%20svg.svg" height="60" width="72" alt="cplusplus logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/CSharp%20svg.svg" height="60" width="72" alt="csharp logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/HTML-colored-svg.svg" height="60" width="72" alt="html5 logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/CSS-colored-svg.svg" height="60" width="72" alt="css3 logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/JS-colored-svg.svg" height="60" width="72" alt="js logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/Node-colored-svg.svg" height="60" width="72" alt="nodejs logo" /><br>
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/Python-colored-svg.svg" height="60" width="72" alt="python logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/Django-colored-svg.svg" height="60" width="72" alt="django logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/C%2B%2B-colored-svg.svg" height="60" width="72" alt="cplusplus logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/CSharp-colored-svg.svg" height="60" width="72" alt="csharp logo" />
 </div>
