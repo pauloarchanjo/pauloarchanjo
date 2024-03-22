@@ -17,11 +17,10 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/HTML-colored-svg.svg" height="60" width="72" alt="html5 logo" />
   <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/CSS-colored-svg.svg" height="60" width="72" alt="css3 logo" />
   <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/JS-colored-svg.svg" height="60" width="72" alt="js logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/TS-colored-svg.svg" height="60" width="72" alt="ts logo" />
   <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/Node-colored-svg.svg" height="60" width="72" alt="nodejs logo" />
   <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/Python-colored-svg.svg" height="60" width="72" alt="python logo" />
   <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/Django-colored-svg.svg" height="60" width="72" alt="django logo" />
