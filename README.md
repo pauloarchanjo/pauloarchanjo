@@ -17,7 +17,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/HTML-colored-svg.svg" height="60" width="72" alt="html5 logo" />
   <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/CSS-colored-svg.svg" height="60" width="72" alt="css3 logo" />
   <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/colored-logos/JS-colored-svg.svg" height="60" width="72" alt="js logo" />
