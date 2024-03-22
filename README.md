@@ -16,18 +16,14 @@
 ###
 
 ###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="52" alt="typescript logo"  />
-</div>
 
-###
-###
 <div align="left">
-  <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" width="62" alt="cpp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" width="52" alt="csharp logo"  />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/HTML%20svg.svg" height="60" width="72" alt="html5 logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/CSS%20svg.svg" height="60" width="72" alt="css3 logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/JS%20svg.svg" height="60" width="72" alt="js logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/Node%20svg.svg" height="60" width="72" alt="nodejs logo" /><br>
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/Python%20svg.svg" height="60" width="72" alt="python logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/Django%20svg.svg" height="60" width="72" alt="django logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/C%2B%2B%20svg.svg" height="60" width="72" alt="cplusplus logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/logos/CSharp%20svg.svg" height="60" width="72" alt="csharp logo" />
 </div>
