@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I am a programmer with a passion for technology and my goal is to become a Software Engineer. At just 19 years old, I'm from Campinas-SP and I've been dedicating myself to software development since I was 15 years old. 🚀</p>
+<p align="left">I am a programmer with a passion for technology and my goal is to become a Software Engineer. At just 19 years old, I've been dedicating myself to software development since I was 15 years old. 🚀</p>
 
 ###
 
