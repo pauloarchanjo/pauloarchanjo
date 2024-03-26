@@ -11,6 +11,6 @@
   <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/node-gray.svg" height="60" width="72" alt="nodejs logo" />
   <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/python-gray.svg" height="60" width="72" alt="python logo" />
   <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/django-gray.svg" height="60" width="72" alt="django logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/cpp-gray.svg" height="60" width="72" alt="cplusplus logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/c-gray.svg" height="60" width="72" alt="c logo" />
   <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/csharp-gray.svg" height="60" width="72" alt="csharp logo" />
 </div>
