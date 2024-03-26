@@ -18,12 +18,12 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gradient/html-dark-gradient.svg" height="60" width="72" alt="html5 logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gradient/css-dark-gradient.svg" height="60" width="72" alt="css3 logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gradient/js-dark-gradient.svg" height="60" width="72" alt="js logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gradient/node-dark-gradient.svg" height="60" width="72" alt="nodejs logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gradient/python-dark-gradient.svg" height="60" width="72" alt="python logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gradient/django-dark-gradient.svg" height="60" width="72" alt="django logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gradient/cpp-dark-gradient.svg" height="60" width="72" alt="cplusplus logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gradient/csharp-dark-gradient.svg" height="60" width="72" alt="csharp logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/html-gray.svg" height="60" width="72" alt="html5 logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/css-gray.svg" height="60" width="72" alt="css3 logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/js-gray.svg" height="60" width="72" alt="js logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/node-gray.svg" height="60" width="72" alt="nodejs logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/python-gray.svg" height="60" width="72" alt="python logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/django-gray.svg" height="60" width="72" alt="django logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/cpp-gray.svg" height="60" width="72" alt="cplusplus logo" />
+  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/csharp-gray.svg" height="60" width="72" alt="csharp logo" />
 </div>
