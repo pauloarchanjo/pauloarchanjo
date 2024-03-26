@@ -1,21 +1,8 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<h2 align="left">Hello there, I'm Archanjo! 👋</h2>
 
-<h2 align="left">Hello there, i'm Archanjo👋</h2>
-
-###
-
-<p align="left">I am a programmer with a passion for technology and my goal is to become a Software Engineer. At just 19 years old, I've been dedicating myself to software development since I was 15 years old. 🚀</p>
-
-###
-
-###
+<p align="left">I am a programmer with a passion for technology, and my goal is to become a Software Engineer. Starting at just 15 years old, I've dedicated myself to software development, and now, at 19, I continue on this journey with fervor. 🚀</p>
 
 <h2 align="left">Technologies:</h2>
-
-
-###
-
-###
 
 <div align="left">
   <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/html-gray.svg" height="60" width="72" alt="html5 logo" />
