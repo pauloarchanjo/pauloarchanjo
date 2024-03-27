@@ -5,12 +5,12 @@
 <h2 align="left">Technologies:</h2>
 
 <div align="left">
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/html-gray.svg" height="60" width="72" alt="html5 logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/css-gray.svg" height="60" width="72" alt="css3 logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/js-gray.svg" height="60" width="72" alt="js logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/node-gray.svg" height="60" width="72" alt="nodejs logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/python-gray.svg" height="60" width="72" alt="python logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/django-gray.svg" height="60" width="72" alt="django logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/cpp-gray.svg" height="60" width="72" alt="cplusplus logo" />
-  <img src="https://github.com/pauloarchanjo/logo-assets/blob/main/dark-gray/csharp-gray.svg" height="60" width="72" alt="csharp logo" />
+  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/html-dark-gray.svg" height="60" width="72" alt="html5 logo" />
+  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/css-dark-gray.svg" height="60" width="72" alt="css3 logo" />
+  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/js-dark-gray.svg" height="60" width="72" alt="js logo" />
+  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/node-dark-gray.svg" height="60" width="72" alt="nodejs logo" />
+  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/python-dark-gray.svg" height="60" width="72" alt="python logo" />
+  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/django-dark-gray.svg" height="60" width="72" alt="django logo" />
+  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/cpp-dark-gray.svg" height="60" width="72" alt="cplusplus logo" />
+  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/csharp-dark-gray.svg" height="60" width="72" alt="csharp logo" />
 </div>
