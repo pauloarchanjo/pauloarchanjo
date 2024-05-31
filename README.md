@@ -10,6 +10,7 @@
   <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/js-dark-gray.svg" height="60" width="72" alt="js logo" />
   <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/ts-dark-gray.svg" height="60" width="72" alt="ts logo" />
   <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/react-dark-gray.svg" height="60" width="72" alt="reactjs logo" />
+  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/next-dark-gray.svg" height="60" width="72" alt="nextjs logo" />
   <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/python-dark-gray.svg" height="60" width="72" alt="python logo" />
   <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/django-dark-gray.svg" height="60" width="72" alt="django logo" />
   <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/pandas-dark-gray.svg" height="60" width="72" alt="pandas logo" />
