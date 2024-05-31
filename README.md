@@ -4,7 +4,7 @@
 
 <h2 align="left">Technologies:</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/html-dark-gray.svg" height="60" width="72" alt="html5 logo" />
   <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/css-dark-gray.svg" height="60" width="72" alt="css3 logo" />
   <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/js-dark-gray.svg" height="60" width="72" alt="js logo" />
