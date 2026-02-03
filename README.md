@@ -37,5 +37,10 @@ Currently, I leverage **Python** to automate business workflows (achieving 90%+ 
 </div>
 
 ---
+- **Language:** English (C1 Advanced) | Portuguese (Native)
 
-<a align="left" href="https://archanjoportfolio.vercel.app/Resume%20-%20English.pdf" download>My Resume 📄</a>
+<br />
+
+<a href="https://archanjoportfolio.vercel.app/Resume%20-%20English.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download_Resume-FF5733?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+</a>
