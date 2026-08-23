@@ -1,14 +1,24 @@
-# Hello, I'm Archanjo 👋 
+# Hello, I'm Archanjo 👋
+### Aspiring ServiceNow Developer | Process Automation Specialist | Full Stack Background
 
-### Full Stack Developer | Automation Specialist | Computer Vision Researcher
+I'm a **process-minded developer** transitioning into the **ServiceNow ecosystem**, combining hands-on platform practice with a solid engineering background in automation and web development. As a **Mid-level Web Developer**, I delivered **40+ high-performance projects**, and today I use that same problem-solving mindset to build low-code applications and automate business workflows.
 
-I am a **Product-Minded Developer** with a solid background in Web Development and a passion for solving complex problems through code. With professional experience as a **Mid-level Web Developer**, I have delivered over **40 high-performance projects**.
+Currently, I'm training in **ServiceNow System Administration** and applying it in a **Developer Instance**, while leveraging **Python** to automate business processes — with results like a **90%+ reduction in processing time** on real workflows.
 
-Currently, I leverage **Python** to automate business workflows (achieving 90%+ efficiency gains) and explore the boundaries of **Computer Vision** and **Artificial Intelligence**.
+---
+
+## ⚙️ ServiceNow — Training & Hands-On Practice
+
+- 🎓 **In progress:** ServiceNow System Administration certification (SENAI) — expected completion May/2026.
+- 🧩 **Hands-on projects** built in a ServiceNow Developer Instance:
+  - **Inventory Management App** for a logistics/freight company — custom tables, stock control, and automated approval flows via **Flow Designer**.
+  - **Pet Shop Management App** — built in **App Engine Studio**, with customer registration, service scheduling, and a request catalog.
+- 🔩 Practicing core ServiceNow building blocks: **App Engine Studio**, **Flow Designer**, **Service Catalog**, **ITSM concepts**, and **Workflow Automation**.
 
 ---
 
 ## 🏆 Key Achievements
+
 - **International Award Winner:** 3rd Place at FeNaDante (International Science Fair) for a Satellite Imagery Damage Detection system using Python & OpenCV.
 - **Published Researcher:** Technical article published in the InCiência Scientific Journal.
 - **Efficiency Expert:** Developed custom automation scripts that reduced data processing time from 90 minutes to 8 minutes.
@@ -17,6 +27,21 @@ Currently, I leverage **Python** to automate business workflows (achieving 90%+ 
 ---
 
 ## 🛠 Technologies & Tools
+
+### ServiceNow
+<div align="left">
+  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="servicenow" />
+  <img src="https://img.shields.io/badge/Flow_Designer-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="flow designer" />
+  <img src="https://img.shields.io/badge/App_Engine_Studio-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="app engine studio" />
+</div>
+
+### Data & Automation
+<div align="left">
+  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/python-dark-gray.svg" height="45" width="55" alt="python" />
+  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/pandas-dark-gray.svg" height="45" width="55" alt="pandas" />
+  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/mysql-dark-gray.svg" height="45" width="55" alt="mysql" />
+  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/django-dark-gray.svg" height="45" width="55" alt="django" />
+</div>
 
 ### Web & Full Stack
 <div align="left">
@@ -28,16 +53,9 @@ Currently, I leverage **Python** to automate business workflows (achieving 90%+ 
   <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/react-dark-gray.svg" height="45" width="55" alt="react" />
 </div>
 
-### Data & Intelligence
-<div align="left">
-  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/python-dark-gray.svg" height="45" width="55" alt="python" />
-  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/django-dark-gray.svg" height="45" width="55" alt="django" />
-  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/pandas-dark-gray.svg" height="45" width="55" alt="pandas" />
-  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/mysql-dark-gray.svg" height="45" width="55" alt="mysql" />
-</div>
-
 ---
-- **Language:** English (C1 Advanced) | Portuguese (Native)
+
+- **Languages:** English (C1 Advanced) | Portuguese (Native)
 
 <br />
 
