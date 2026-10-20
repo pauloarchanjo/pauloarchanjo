@@ -1,64 +1,50 @@
-# Hello, I'm Archanjo 👋
-### Aspiring ServiceNow Developer | Process Automation Specialist | Full Stack Background
 
-I'm a **process-minded developer** transitioning into the **ServiceNow ecosystem**, combining hands-on platform practice with a solid engineering background in automation and web development. As a **Mid-level Web Developer**, I delivered **40+ high-performance projects**, and today I use that same problem-solving mindset to build low-code applications and automate business workflows.
+# Archanjo
 
-Currently, I'm training in **ServiceNow System Administration** and applying it in a **Developer Instance**, while leveraging **Python** to automate business processes — with results like a **90%+ reduction in processing time** on real workflows.
+**Software Development · Process Automation · ServiceNow**
 
----
+I build practical tools that reduce repetitive work and make processes easier to manage.
 
-## ⚙️ ServiceNow — Training & Hands-On Practice
+## About
 
-- 🎓 **In progress:** ServiceNow System Administration certification (SENAI) — expected completion May/2026.
-- 🧩 **Hands-on projects** built in a ServiceNow Developer Instance:
-  - **Inventory Management App** for a logistics/freight company — custom tables, stock control, and automated approval flows via **Flow Designer**.
-  - **Pet Shop Management App** — built in **App Engine Studio**, with customer registration, service scheduling, and a request catalog.
-- 🔩 Practicing core ServiceNow building blocks: **App Engine Studio**, **Flow Designer**, **Service Catalog**, **ITSM concepts**, and **Workflow Automation**.
+My background combines professional web development with practical automation. I currently work in finance and administration at IBM, where I apply scripting and data-oriented tools to improve operational workflows. I'm now deepening my skills in ServiceNow while continuing to build web and Python projects.
 
----
+## Selected Highlights
 
-## 🏆 Key Achievements
+- **Process automation:** Reduced a recurring data-processing task from approximately 90 minutes to 8 minutes using Python.
+- **Web development:** Contributed to the delivery of 40+ web projects in a previous role.
+- **Research and recognition:** Earned 3rd place at FeNaDante in 2021 for a computer-vision project focused on forest-damage assessment using Python and OpenCV. Related technical work was published in the InCiência scientific journal.
 
-- **International Award Winner:** 3rd Place at FeNaDante (International Science Fair) for a Satellite Imagery Damage Detection system using Python & OpenCV.
-- **Published Researcher:** Technical article published in the InCiência Scientific Journal.
-- **Efficiency Expert:** Developed custom automation scripts that reduced data processing time from 90 minutes to 8 minutes.
-- **Open Source Creator:** Founder of [Minicons](https://github.com/pauloarchanjo/minicons), a repository of free assets for the dev community.
+## Current Focus
 
----
+- **ServiceNow:** Application development and system administration, with hands-on practice in App Engine Studio, Flow Designer, Service Catalog, and ITSM fundamentals.
+- **Automation and data:** Python scripting, data processing, and workflow improvements.
+- **Software development:** Building and refining practical web applications and personal tools.
 
-## 🛠 Technologies & Tools
+*Training completed: ServiceNow Systems Administration — SENAI.*
 
-### ServiceNow
-<div align="left">
-  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="servicenow" />
-  <img src="https://img.shields.io/badge/Flow_Designer-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="flow designer" />
-  <img src="https://img.shields.io/badge/App_Engine_Studio-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="app engine studio" />
-</div>
+### ServiceNow Practice Projects
 
-### Data & Automation
-<div align="left">
-  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/python-dark-gray.svg" height="45" width="55" alt="python" />
-  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/pandas-dark-gray.svg" height="45" width="55" alt="pandas" />
-  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/mysql-dark-gray.svg" height="45" width="55" alt="mysql" />
-  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/django-dark-gray.svg" height="45" width="55" alt="django" />
-</div>
+These are hands-on prototypes built in a ServiceNow Developer Instance.
 
-### Web & Full Stack
-<div align="left">
-  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/html-dark-gray.svg" height="45" width="55" alt="html5" />
-  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/css-dark-gray.svg" height="45" width="55" alt="css3" />
-  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/js-dark-gray.svg" height="45" width="55" alt="js" />
-  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/php-dark-gray.svg" height="45" width="55" alt="php" />
-  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/wordpress-dark-gray.svg" height="45" width="55" alt="wordpress" />
-  <img src="https://github.com/pauloarchanjo/minicons/blob/main/dark-gray/react-dark-gray.svg" height="45" width="55" alt="react" />
-</div>
+- **Inventory Management App** — A logistics-oriented prototype with custom tables, inventory tracking, and approval flows built with Flow Designer.
 
----
+## Technologies
 
-- **Languages:** English (C1 Advanced) | Portuguese (Native)
+- **Web development:** HTML, CSS, JavaScript, PHP, WordPress, React, Next.js, TypeScript, MySQL
+- **Python and data:** Python, pandas, Django, OpenCV
+- **ServiceNow practice:** App Engine Studio, Flow Designer, Service Catalog, ITSM fundamentals
 
-<br />
+## Selected Projects
 
-<a href="https://drive.google.com/file/d/1m6GFHtzrsRtjQdusHzdkRQgcJvGwNSNY/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Download_Resume-FF5733?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
-</a>
+- **[Minicons](https://github.com/pauloarchanjo/minicons)** — A collection of SVG logos organized into multiple styles for use in digital projects.
+- **[Automate Download Files](https://github.com/pauloarchanjo/automate-download-files)** — A Python script that sorts downloaded files into folders based on their file extensions.
+
+## Languages
+
+- **Portuguese:** Native
+- **English:** C1 Advanced
+
+## Contact
+
+[Portfolio](https://archanjoportfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/pauloarchanjo/) · [GitHub](https://github.com/pauloarchanjo)
